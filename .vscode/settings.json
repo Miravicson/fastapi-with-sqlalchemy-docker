@@ -1,0 +1,15 @@
+{
+  "python.linting.enabled": true,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+  },
+  "python.formatting.provider": "black",
+  "python.linting.flake8Enabled": false,
+  "python.linting.mypyEnabled": true,
+  "python.linting.banditEnabled": false,
+  "cSpell.words": [
+    "dotenv",
+    "oidx",
+    "uvicorn"
+  ],
+}
