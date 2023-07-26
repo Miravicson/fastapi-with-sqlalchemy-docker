@@ -12,4 +12,6 @@
     "oidx",
     "uvicorn"
   ],
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
 }
